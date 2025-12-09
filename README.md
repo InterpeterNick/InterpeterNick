@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @InterpeterNick
-- 👀 I’m interested in Java, C, and SQL programing languages as well as Deep learning, Databases, 
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I know intermediate Java and i like graphics.
+Now with added OpenGL!
+
 
 <!---
 InterpeterNick/InterpeterNick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
